@@ -1,4 +1,4 @@
 # Vodomats
-Website-business card of vodomats
+Website-business card of vodomats  
 
-github pages - https://kuz4dev.github.io/Vodomats/
+https://kuz4dev.github.io/Vodomats/ - github pages link
